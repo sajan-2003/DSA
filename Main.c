@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "Token_Generator/token.h"
-// use this commnad to run the c file -  gcc main.c token.c -o token_program;  
+// use this commnad to run the c file -  gcc main.c ./Token_Generator/token.c -o token_program
+//And then -  ./token_program     
 int main(){
     
 
