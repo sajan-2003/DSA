@@ -100,6 +100,7 @@ struct token* issue_token(struct token_list *list){
     scanf("%d",&token->priority);
     list->head=list->head->next;
     printf("Token Created\n");
+    printf("\n\n\n\n\n\n\n\n\n\n");
     return token;
     }
 
